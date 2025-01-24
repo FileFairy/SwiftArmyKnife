@@ -1,0 +1,15 @@
+{
+  "originHash" : "058db1cc62416379568a187dba55bba87bb3566e431f8f006145d77560784115",
+  "pins" : [
+    {
+      "identity" : "supersecretprivatepackage",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:Chevel/SuperSecretPrivatePackage.git",
+      "state" : {
+        "revision" : "4f081798556a31a71fe522c3904f4ff18d8c7bb4",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
